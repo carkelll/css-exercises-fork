@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+/* Add. CSS Styling */
+
+.element-odd{
+    background-color: hsl(332, 49%, 68%);
+    font-family: "Veranda", "DejaVu Sans", "sans-serif";
+
+}
+
+#element-two{
+    color:rgb(112, 198, 198);
+    font-size: 36px;
+    
+}
+
+.element-three{
+    font-size: 24px;
+
+}
+
+#element-four{
+background-color:rgb(169, 220, 91);
+font-size:24px;
+font-weight:1000;
+}
